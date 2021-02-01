@@ -27,7 +27,7 @@ class Main {
       field.setAccessible(true);
 
       // set value of field
-      field.set(test, "Name");
+      field.set(test, "Test");
 
       // get value of field
       // and convert it in string
@@ -48,7 +48,7 @@ class Main {
 }
 
 /* Output:
-Name: Programiz
+Name: Test (because we set it as this. check line 30 to change it.)
 Method Name: display    
 Access Modifier: private
 */
