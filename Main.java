@@ -53,7 +53,7 @@ Method Name: display
 Access Modifier: private
 */
 
-*/
+/*
 Here, we have a private field named name and a private method named display(). 
 We are using the reflection to access the private fields and methods of the class private.
 View a Java Reflection article to learn more.
